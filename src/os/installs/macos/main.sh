@@ -14,9 +14,9 @@ reload_local_shell_configs
 
 ./git.sh
 ./../volta.sh
-./browsers.sh
-./compression_tools.sh
-./gpg.sh
+#./browsers.sh
+#./compression_tools.sh
+#./gpg.sh
 #./image_tools.sh
 #./misc.sh
 #./misc_tools.sh
