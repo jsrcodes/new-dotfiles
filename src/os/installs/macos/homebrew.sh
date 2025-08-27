@@ -106,7 +106,7 @@ main() {
     opt_out_of_analytics
 
     update
-    upgrade
+    # upgrade
 }
 
 main
